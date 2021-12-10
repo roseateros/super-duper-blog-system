@@ -1,5 +1,5 @@
 @charset "UTF-8";
-@import url('https://fonts.googleapis.com/css2?family=Tillana:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam&family=Tillana:wght@500&display=swap');
 /*!
 * Start Bootstrap - Clean Blog v6.0.7 (https://startbootstrap.com/theme/clean-blog)
 * Copyright 2013-2021 Start Bootstrap
@@ -12,9 +12,13 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 
-.nepali{
+.nepali-til{
   font-family: 'Tillana', cursive;
 }
+.nepali-kalam{
+  font-family: 'Kalam', cursive;
+}
+font-family: 'Kalam', cursive;
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
